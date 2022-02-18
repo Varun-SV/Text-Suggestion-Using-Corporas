@@ -22,4 +22,4 @@ corpora it will make the suggestions.
 ### VSCode:
 * If you happen to be using VSCode or some other IDLE then make sure to change the file directory to the place where you placed your file.
 
-* Once all that have been done. That's it you can now run this program to suggest the mis-spelled words correctly by just using the corpora texts.
+Once all that have been done. That's it you can now run this program to suggest the mis-spelled words correctly by just using the corpora texts.
