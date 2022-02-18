@@ -58,7 +58,7 @@ def extract_ngrams(data,num):
 
 
 
-data = open("/content/assignment_corpus.txt","r",encoding='utf8').read()
+data = open("/content/tomsawyer_corpora.txt","r",encoding='utf8').read()
 data.lower()
 
 cleaned_data=cleaning(data)
